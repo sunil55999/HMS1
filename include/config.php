@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', 'trolley.proxy.rlwy.net'); // Railway MySQL host
+define('DB_SERVER', 'mysql.railway.internal'); // Railway MySQL host
 define('DB_USER', 'root'); // Railway MySQL username
 define('DB_PASS', 'bHfEAViCgGwleFihLjvuCIpZYUFseDTx'); // Railway MySQL password
 define('DB_NAME', 'railway'); // Railway MySQL database name
